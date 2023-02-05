@@ -1,6 +1,6 @@
 {
     "eslint.options": {
-        "overrideConfigFile": "../.eslintrc.json"
+        "overrideConfigFile": "./.eslintrc.json"
     },
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "typescript.preferences.importModuleSpecifier": "relative",

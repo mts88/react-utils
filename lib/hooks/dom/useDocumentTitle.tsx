@@ -29,7 +29,7 @@ type IUseDocumentTitle = {
  *
  * ```
  */
-export default function useDocumentTitle(title?: string): IUseDocumentTitle {
+const useDocumentTitle = (title?: string): IUseDocumentTitle => {
   if (title) {
     document.title = title;
   }
@@ -39,6 +39,8 @@ export default function useDocumentTitle(title?: string): IUseDocumentTitle {
   };
 
   return {
-    updateDocumentTitle,
+    updateDocumentTitle
   };
-}
+};
+
+export default useDocumentTitle;

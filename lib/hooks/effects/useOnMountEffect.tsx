@@ -29,9 +29,9 @@ import { useEffect, useRef } from 'react';
  *
  * ```
  */
-export const useOnMountEffect = <T,>(
+const useOnMountEffect = <T,>(
   onMountFunc: Function,
-  onUnmountFunc: Function = () => {},
+  onUnmountFunc: Function = (): void => {},
   deps: T[] = []
 ): void => {
   const mount = useRef(false);
@@ -47,3 +47,5 @@ export const useOnMountEffect = <T,>(
     };
   }, deps);
 };
+
+export default useOnMountEffect;

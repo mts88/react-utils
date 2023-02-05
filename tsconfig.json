@@ -18,7 +18,9 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react-jsx"
+    "jsx": "react-jsx",
+    "baseUrl": "lib",
+    "strictNullChecks": true
   },
   "include": [
     "lib"
@@ -27,5 +29,18 @@
     {
       "path": "./tsconfig.node.json"
     }
-  ]
+  ],
+  "typedocOptions": {
+    "plugin": [
+      "typedoc-plugin-markdown"
+    ],
+    "entryPointStrategy": "expand",
+    "entryPoints": [
+      "./lib"
+    ],
+    "out": "docs",
+    "exclude": [
+      "./lib/vite-env.d.ts"
+    ]
+  }
 }
