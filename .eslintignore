@@ -2,3 +2,6 @@
 *.svg
 vite.config.ts
 lib/vite-env.d.ts
+node_modules
+dist
+docs
