@@ -1,49 +1,51 @@
 /* eslint-disable @typescript-eslint/no-empty-function */
 /* eslint-disable @typescript-eslint/ban-types */
-import { useEffect, useRef } from 'react'
+import { useEffect, useRef } from 'react';
 
 /**
- * Act only on mount of component, avoid double execution of React 18+ useEffect
+ * Execute onMountFunc when component is mounted. Avoid double execution of React 18+' useEffect.
  *
- *
- * @param onMountFunc Function executed on mount
- * @param onUnmountFunc Function executed on unMount
- * @param deps Optionals dependencies of effect
+ * @param onMountFunc Function to execute onMount of component.
+ * @param onUnmountFunc *Optional* - Function executed onUnMount of component.
+ * @param deps *Optional* - Effect dependencies
  *
  * @example
  * ```
- *  const [counter, setCounter] = useState(0)
+ *  const MyComponent = () => {
  *
- *  useOnMountEffect(
- *    () => {
- *      // on mount
- *      setCounter(1)
- *    },
- *    () => {
- *      // on unMount
- *      setCounter(0)
- *    }
- * )
+ *      const [ counter, setCounter ] = useState(0)
+ *
+ *       useOnMountEffect(
+ *          // on mount
+ *          () => {
+ *              setCounter(1)
+ *          },
+ *          // on unmount
+ *          () => {
+ *              setCounter(0)
+ *          }
+ *       )
+ *  }
+ *
  * ```
- *
  */
 const useOnMountEffect = <T,>(
   onMountFunc: Function,
-  onUnmountFunc: Function = () => {},
-  deps: T[] = [],
+  onUnmountFunc: Function = (): void => {},
+  deps: T[] = []
 ): void => {
-  const mount = useRef(false)
+  const mount = useRef(false);
   useEffect(() => {
     if (!mount.current) {
-      onMountFunc()
+      onMountFunc();
     }
     return () => {
       if (mount.current) {
-        onUnmountFunc()
+        onUnmountFunc();
       }
-      mount.current = true
-    }
-  }, deps)
-}
+      mount.current = true;
+    };
+  }, deps);
+};
 
-export default useOnMountEffect
+export default useOnMountEffect;

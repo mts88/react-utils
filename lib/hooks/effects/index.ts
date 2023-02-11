@@ -3,4 +3,4 @@
  *
  * Contains hooks based on effects
  */
-export { default as useOnMountEffect } from './useOnMountEffect'
+export { default as useOnMountEffect } from './useOnMountEffect';

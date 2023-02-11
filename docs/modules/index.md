@@ -1,13 +1,13 @@
-[react-utils](../README.md) / [Exports](../modules.md) / hooks
+[react-utils](../README.md) / [Exports](../modules.md) / index
 
-# Module: hooks
+# Module: index
 
 ## Table of contents
 
 ### References
 
-- [useDocumentTitle](hooks.md#usedocumenttitle)
-- [useOnMountEffect](hooks.md#useonmounteffect)
+- [useDocumentTitle](index.md#usedocumenttitle)
+- [useOnMountEffect](index.md#useonmounteffect)
 
 ## References
 

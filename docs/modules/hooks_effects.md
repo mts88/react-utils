@@ -12,4 +12,4 @@
 
 ### useOnMountEffect
 
-Renames and re-exports [default](effects_useOnMountEffect.md#default)
+Renames and re-exports [default](hooks_effects_useOnMountEffect.md#default)

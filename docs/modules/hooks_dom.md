@@ -12,4 +12,4 @@
 
 ### useDocumentTitle
 
-Renames and re-exports [default](dom_useDocumentTitle.md#default)
+Renames and re-exports [default](hooks_dom_useDocumentTitle.md#default)
