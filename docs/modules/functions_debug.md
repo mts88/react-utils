@@ -1,12 +1,12 @@
-[react-utils](../README.md) / [Exports](../modules.md) / utils/functions/debug
+[react-utils](../README.md) / [Exports](../modules.md) / functions/debug
 
-# Module: utils/functions/debug
+# Module: functions/debug
 
 ## Table of contents
 
 ### Functions
 
-- [trace](utils_functions_debug.md#trace)
+- [trace](functions_debug.md#trace)
 
 ## Functions
 
@@ -37,4 +37,4 @@ Param logged
 
 #### Defined in
 
-[utils/functions/debug.ts:8](https://github.com/mts88/react-utils/blob/1b73292/lib/utils/functions/debug.ts#L8)
+[functions/debug.ts:8](https://github.com/mts88/react-utils/blob/81dab9f/lib/functions/debug.ts#L8)

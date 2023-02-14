@@ -1,16 +1,16 @@
-[react-utils](../README.md) / [Exports](../modules.md) / utils/types/bases
+[react-utils](../README.md) / [Exports](../modules.md) / types/bases
 
-# Module: utils/types/bases
+# Module: types/bases
 
 ## Table of contents
 
 ### Type Aliases
 
-- [EntityId](utils_types_bases.md#entityid)
-- [Maybe](utils_types_bases.md#maybe)
-- [Nullable](utils_types_bases.md#nullable)
-- [Primitve](utils_types_bases.md#primitve)
-- [SimpleValue](utils_types_bases.md#simplevalue)
+- [EntityId](types_bases.md#entityid)
+- [Maybe](types_bases.md#maybe)
+- [Nullable](types_bases.md#nullable)
+- [Primitve](types_bases.md#primitve)
+- [SimpleValue](types_bases.md#simplevalue)
 
 ## Type Aliases
 
@@ -29,7 +29,7 @@ Declare entity with id field.
 
 #### Defined in
 
-[utils/types/bases.ts:19](https://github.com/mts88/react-utils/blob/1b73292/lib/utils/types/bases.ts#L19)
+[types/bases.ts:19](https://github.com/mts88/react-utils/blob/81dab9f/lib/types/bases.ts#L19)
 
 ___
 
@@ -47,7 +47,7 @@ Helper to define type or undefined
 
 #### Defined in
 
-[utils/types/bases.ts:4](https://github.com/mts88/react-utils/blob/1b73292/lib/utils/types/bases.ts#L4)
+[types/bases.ts:4](https://github.com/mts88/react-utils/blob/81dab9f/lib/types/bases.ts#L4)
 
 ___
 
@@ -65,7 +65,7 @@ Helper to define type or null
 
 #### Defined in
 
-[utils/types/bases.ts:9](https://github.com/mts88/react-utils/blob/1b73292/lib/utils/types/bases.ts#L9)
+[types/bases.ts:9](https://github.com/mts88/react-utils/blob/81dab9f/lib/types/bases.ts#L9)
 
 ___
 
@@ -77,7 +77,7 @@ Define type primitive
 
 #### Defined in
 
-[utils/types/bases.ts:14](https://github.com/mts88/react-utils/blob/1b73292/lib/utils/types/bases.ts#L14)
+[types/bases.ts:14](https://github.com/mts88/react-utils/blob/81dab9f/lib/types/bases.ts#L14)
 
 ___
 
@@ -101,4 +101,4 @@ Interface with simple value structure
 
 #### Defined in
 
-[utils/types/bases.ts:24](https://github.com/mts88/react-utils/blob/1b73292/lib/utils/types/bases.ts#L24)
+[types/bases.ts:24](https://github.com/mts88/react-utils/blob/81dab9f/lib/types/bases.ts#L24)

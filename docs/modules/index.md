@@ -43,7 +43,7 @@
 
 ### ActionProps
 
-Re-exports [ActionProps](utils_types_react.md#actionprops)
+Re-exports [ActionProps](types_react.md#actionprops)
 
 ___
 
@@ -61,7 +61,7 @@ ___
 
 ### EntityId
 
-Re-exports [EntityId](utils_types_bases.md#entityid)
+Re-exports [EntityId](types_bases.md#entityid)
 
 ___
 
@@ -103,85 +103,85 @@ ___
 
 ### Maybe
 
-Re-exports [Maybe](utils_types_bases.md#maybe)
+Re-exports [Maybe](types_bases.md#maybe)
 
 ___
 
 ### Nullable
 
-Re-exports [Nullable](utils_types_bases.md#nullable)
+Re-exports [Nullable](types_bases.md#nullable)
 
 ___
 
 ### PickActionProps
 
-Re-exports [PickActionProps](utils_types_react.md#pickactionprops)
+Re-exports [PickActionProps](types_react.md#pickactionprops)
 
 ___
 
 ### Primitve
 
-Re-exports [Primitve](utils_types_bases.md#primitve)
+Re-exports [Primitve](types_bases.md#primitve)
 
 ___
 
 ### SimpleValue
 
-Re-exports [SimpleValue](utils_types_bases.md#simplevalue)
+Re-exports [SimpleValue](types_bases.md#simplevalue)
 
 ___
 
 ### equalIgnoreCase
 
-Re-exports [equalIgnoreCase](utils_functions_string.md#equalignorecase)
+Re-exports [equalIgnoreCase](functions_string.md#equalignorecase)
 
 ___
 
 ### getValue
 
-Re-exports [getValue](utils_functions_types.md#getvalue)
+Re-exports [getValue](functions_types.md#getvalue)
 
 ___
 
 ### isEmpty
 
-Re-exports [isEmpty](utils_functions_arrays.md#isempty)
+Re-exports [isEmpty](functions_arrays.md#isempty)
 
 ___
 
 ### isNotNull
 
-Re-exports [isNotNull](utils_functions_types.md#isnotnull)
+Re-exports [isNotNull](functions_types.md#isnotnull)
 
 ___
 
 ### isNotUndefined
 
-Re-exports [isNotUndefined](utils_functions_types.md#isnotundefined)
+Re-exports [isNotUndefined](functions_types.md#isnotundefined)
 
 ___
 
 ### isNull
 
-Re-exports [isNull](utils_functions_types.md#isnull)
+Re-exports [isNull](functions_types.md#isnull)
 
 ___
 
 ### isPrimitve
 
-Re-exports [isPrimitve](utils_functions_types.md#isprimitve)
+Re-exports [isPrimitve](functions_types.md#isprimitve)
 
 ___
 
 ### isUndefined
 
-Re-exports [isUndefined](utils_functions_types.md#isundefined)
+Re-exports [isUndefined](functions_types.md#isundefined)
 
 ___
 
 ### trace
 
-Re-exports [trace](utils_functions_debug.md#trace)
+Re-exports [trace](functions_debug.md#trace)
 
 ___
 

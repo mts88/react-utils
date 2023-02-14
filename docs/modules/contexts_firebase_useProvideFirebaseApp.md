@@ -24,4 +24,4 @@ provider of Firebase App
 
 #### Defined in
 
-[contexts/firebase/useProvideFirebaseApp.tsx:13](https://github.com/mts88/react-utils/blob/1b73292/lib/contexts/firebase/useProvideFirebaseApp.tsx#L13)
+[contexts/firebase/useProvideFirebaseApp.tsx:13](https://github.com/mts88/react-utils/blob/81dab9f/lib/contexts/firebase/useProvideFirebaseApp.tsx#L13)

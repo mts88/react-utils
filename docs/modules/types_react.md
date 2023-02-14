@@ -1,13 +1,13 @@
-[react-utils](../README.md) / [Exports](../modules.md) / utils/types/react
+[react-utils](../README.md) / [Exports](../modules.md) / types/react
 
-# Module: utils/types/react
+# Module: types/react
 
 ## Table of contents
 
 ### Type Aliases
 
-- [ActionProps](utils_types_react.md#actionprops)
-- [PickActionProps](utils_types_react.md#pickactionprops)
+- [ActionProps](types_react.md#actionprops)
+- [PickActionProps](types_react.md#pickactionprops)
 
 ## Type Aliases
 
@@ -33,22 +33,22 @@ Define multiple common action
 
 #### Defined in
 
-[utils/types/react.ts:4](https://github.com/mts88/react-utils/blob/1b73292/lib/utils/types/react.ts#L4)
+[types/react.ts:4](https://github.com/mts88/react-utils/blob/81dab9f/lib/types/react.ts#L4)
 
 ___
 
 ### PickActionProps
 
-Ƭ **PickActionProps**<`K`\>: `Pick`<[`ActionProps`](utils_types_react.md#actionprops), `K`\>
+Ƭ **PickActionProps**<`K`\>: `Pick`<[`ActionProps`](types_react.md#actionprops), `K`\>
 
-Pick easly from [ActionProps](utils_types_react.md#actionprops)
+Pick easly from [ActionProps](types_react.md#actionprops)
 
 #### Type parameters
 
 | Name | Type |
 | :------ | :------ |
-| `K` | extends keyof [`ActionProps`](utils_types_react.md#actionprops) |
+| `K` | extends keyof [`ActionProps`](types_react.md#actionprops) |
 
 #### Defined in
 
-[utils/types/react.ts:19](https://github.com/mts88/react-utils/blob/1b73292/lib/utils/types/react.ts#L19)
+[types/react.ts:19](https://github.com/mts88/react-utils/blob/81dab9f/lib/types/react.ts#L19)

@@ -1,4 +1,4 @@
-import { Maybe, Nullable, Primitve, SimpleValue } from './../types/bases';
+import { Maybe, Nullable, Primitve, SimpleValue } from '../types/bases';
 
 /**
  * Check if element is undefined or not

@@ -38,4 +38,4 @@ AppConfigContext
 
 #### Defined in
 
-[hooks/app/useAppConfig.tsx:22](https://github.com/mts88/react-utils/blob/1b73292/lib/hooks/app/useAppConfig.tsx#L22)
+[hooks/app/useAppConfig.tsx:22](https://github.com/mts88/react-utils/blob/81dab9f/lib/hooks/app/useAppConfig.tsx#L22)

@@ -1,17 +1,17 @@
-[react-utils](../README.md) / [Exports](../modules.md) / utils/functions/types
+[react-utils](../README.md) / [Exports](../modules.md) / functions/types
 
-# Module: utils/functions/types
+# Module: functions/types
 
 ## Table of contents
 
 ### Functions
 
-- [getValue](utils_functions_types.md#getvalue)
-- [isNotNull](utils_functions_types.md#isnotnull)
-- [isNotUndefined](utils_functions_types.md#isnotundefined)
-- [isNull](utils_functions_types.md#isnull)
-- [isPrimitve](utils_functions_types.md#isprimitve)
-- [isUndefined](utils_functions_types.md#isundefined)
+- [getValue](functions_types.md#getvalue)
+- [isNotNull](functions_types.md#isnotnull)
+- [isNotUndefined](functions_types.md#isnotundefined)
+- [isNull](functions_types.md#isnull)
+- [isPrimitve](functions_types.md#isprimitve)
+- [isUndefined](functions_types.md#isundefined)
 
 ## Functions
 
@@ -31,7 +31,7 @@ Get easily value from object
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `obj` | [`SimpleValue`](utils_types_bases.md#simplevalue)<`T`\> | Object source |
+| `obj` | [`SimpleValue`](types_bases.md#simplevalue)<`T`\> | Object source |
 
 #### Returns
 
@@ -41,7 +41,7 @@ value of object
 
 #### Defined in
 
-[utils/functions/types.ts:51](https://github.com/mts88/react-utils/blob/1b73292/lib/utils/functions/types.ts#L51)
+[functions/types.ts:51](https://github.com/mts88/react-utils/blob/81dab9f/lib/functions/types.ts#L51)
 
 ___
 
@@ -61,7 +61,7 @@ Check if element is not null
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `obj` | [`Nullable`](utils_types_bases.md#nullable)<`T`\> | Object to check |
+| `obj` | [`Nullable`](types_bases.md#nullable)<`T`\> | Object to check |
 
 #### Returns
 
@@ -71,7 +71,7 @@ Element is not null or is it
 
 #### Defined in
 
-[utils/functions/types.ts:33](https://github.com/mts88/react-utils/blob/1b73292/lib/utils/functions/types.ts#L33)
+[functions/types.ts:33](https://github.com/mts88/react-utils/blob/81dab9f/lib/functions/types.ts#L33)
 
 ___
 
@@ -91,7 +91,7 @@ Check if element is defined or not
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `obj` | [`Maybe`](utils_types_bases.md#maybe)<`T`\> | Object to check |
+| `obj` | [`Maybe`](types_bases.md#maybe)<`T`\> | Object to check |
 
 #### Returns
 
@@ -101,7 +101,7 @@ Element is defined
 
 #### Defined in
 
-[utils/functions/types.ts:17](https://github.com/mts88/react-utils/blob/1b73292/lib/utils/functions/types.ts#L17)
+[functions/types.ts:17](https://github.com/mts88/react-utils/blob/81dab9f/lib/functions/types.ts#L17)
 
 ___
 
@@ -121,7 +121,7 @@ Check if element is null or not
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `obj` | [`Nullable`](utils_types_bases.md#nullable)<`T`\> | Object to check |
+| `obj` | [`Nullable`](types_bases.md#nullable)<`T`\> | Object to check |
 
 #### Returns
 
@@ -131,7 +131,7 @@ Element is null or not
 
 #### Defined in
 
-[utils/functions/types.ts:25](https://github.com/mts88/react-utils/blob/1b73292/lib/utils/functions/types.ts#L25)
+[functions/types.ts:25](https://github.com/mts88/react-utils/blob/81dab9f/lib/functions/types.ts#L25)
 
 ___
 
@@ -145,7 +145,7 @@ Check if element is primitive
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `obj` | [`Primitve`](utils_types_bases.md#primitve) | Object to check |
+| `obj` | [`Primitve`](types_bases.md#primitve) | Object to check |
 
 #### Returns
 
@@ -155,7 +155,7 @@ Element is primite or not
 
 #### Defined in
 
-[utils/functions/types.ts:41](https://github.com/mts88/react-utils/blob/1b73292/lib/utils/functions/types.ts#L41)
+[functions/types.ts:41](https://github.com/mts88/react-utils/blob/81dab9f/lib/functions/types.ts#L41)
 
 ___
 
@@ -175,7 +175,7 @@ Check if element is undefined or not
 
 | Name | Type | Description |
 | :------ | :------ | :------ |
-| `obj` | [`Maybe`](utils_types_bases.md#maybe)<`T`\> | Object to check |
+| `obj` | [`Maybe`](types_bases.md#maybe)<`T`\> | Object to check |
 
 #### Returns
 
@@ -185,4 +185,4 @@ Element is undefined
 
 #### Defined in
 
-[utils/functions/types.ts:9](https://github.com/mts88/react-utils/blob/1b73292/lib/utils/functions/types.ts#L9)
+[functions/types.ts:9](https://github.com/mts88/react-utils/blob/81dab9f/lib/functions/types.ts#L9)

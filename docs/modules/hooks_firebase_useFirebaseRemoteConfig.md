@@ -25,4 +25,4 @@ IUseFirebaseRemoteConfig with all methods
 
 #### Defined in
 
-[hooks/firebase/useFirebaseRemoteConfig.tsx:18](https://github.com/mts88/react-utils/blob/1b73292/lib/hooks/firebase/useFirebaseRemoteConfig.tsx#L18)
+[hooks/firebase/useFirebaseRemoteConfig.tsx:18](https://github.com/mts88/react-utils/blob/81dab9f/lib/hooks/firebase/useFirebaseRemoteConfig.tsx#L18)

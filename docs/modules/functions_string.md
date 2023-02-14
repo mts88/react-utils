@@ -1,12 +1,12 @@
-[react-utils](../README.md) / [Exports](../modules.md) / utils/functions/string
+[react-utils](../README.md) / [Exports](../modules.md) / functions/string
 
-# Module: utils/functions/string
+# Module: functions/string
 
 ## Table of contents
 
 ### Functions
 
-- [equalIgnoreCase](utils_functions_string.md#equalignorecase)
+- [equalIgnoreCase](functions_string.md#equalignorecase)
 
 ## Functions
 
@@ -31,4 +31,4 @@ boolean
 
 #### Defined in
 
-[utils/functions/string.ts:7](https://github.com/mts88/react-utils/blob/1b73292/lib/utils/functions/string.ts#L7)
+[functions/string.ts:7](https://github.com/mts88/react-utils/blob/81dab9f/lib/functions/string.ts#L7)

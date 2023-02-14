@@ -1,12 +1,12 @@
-[react-utils](../README.md) / [Exports](../modules.md) / utils/functions/arrays
+[react-utils](../README.md) / [Exports](../modules.md) / functions/arrays
 
-# Module: utils/functions/arrays
+# Module: functions/arrays
 
 ## Table of contents
 
 ### Functions
 
-- [isEmpty](utils_functions_arrays.md#isempty)
+- [isEmpty](functions_arrays.md#isempty)
 
 ## Functions
 
@@ -36,4 +36,4 @@ Is empty or not
 
 #### Defined in
 
-[utils/functions/arrays.ts:7](https://github.com/mts88/react-utils/blob/1b73292/lib/utils/functions/arrays.ts#L7)
+[functions/arrays.ts:7](https://github.com/mts88/react-utils/blob/81dab9f/lib/functions/arrays.ts#L7)
