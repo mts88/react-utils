@@ -1,4 +1,4 @@
-[react-utils](../README.md) / [Exports](../modules.md) / hooks/app/useAppConfig
+[@mts88/react-utils](../README.md) / [Exports](../modules.md) / hooks/app/useAppConfig
 
 # Module: hooks/app/useAppConfig
 
@@ -38,4 +38,4 @@ AppConfigContext
 
 #### Defined in
 
-[hooks/app/useAppConfig.tsx:22](https://github.com/mts88/react-utils/blob/eee399d/lib/hooks/app/useAppConfig.tsx#L22)
+[hooks/app/useAppConfig.tsx:22](https://github.com/mts88/react-utils/blob/748ec10/lib/hooks/app/useAppConfig.tsx#L22)

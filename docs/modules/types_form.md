@@ -1,4 +1,4 @@
-[react-utils](../README.md) / [Exports](../modules.md) / types/form
+[@mts88/react-utils](../README.md) / [Exports](../modules.md) / types/form
 
 # Module: types/form
 
@@ -24,4 +24,4 @@ Type for Validation rules in React hook form
 
 #### Defined in
 
-[types/form.ts:6](https://github.com/mts88/react-utils/blob/eee399d/lib/types/form.ts#L6)
+[types/form.ts:6](https://github.com/mts88/react-utils/blob/748ec10/lib/types/form.ts#L6)

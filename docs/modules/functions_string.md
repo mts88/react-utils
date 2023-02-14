@@ -1,4 +1,4 @@
-[react-utils](../README.md) / [Exports](../modules.md) / functions/string
+[@mts88/react-utils](../README.md) / [Exports](../modules.md) / functions/string
 
 # Module: functions/string
 
@@ -31,4 +31,4 @@ boolean
 
 #### Defined in
 
-[functions/string.ts:7](https://github.com/mts88/react-utils/blob/eee399d/lib/functions/string.ts#L7)
+[functions/string.ts:7](https://github.com/mts88/react-utils/blob/748ec10/lib/functions/string.ts#L7)

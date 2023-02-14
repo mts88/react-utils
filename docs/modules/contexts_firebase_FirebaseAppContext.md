@@ -1,4 +1,4 @@
-[react-utils](../README.md) / [Exports](../modules.md) / contexts/firebase/FirebaseAppContext
+[@mts88/react-utils](../README.md) / [Exports](../modules.md) / contexts/firebase/FirebaseAppContext
 
 # Module: contexts/firebase/FirebaseAppContext
 
@@ -22,7 +22,7 @@ Create initial context
 
 #### Defined in
 
-[contexts/firebase/FirebaseAppContext.tsx:8](https://github.com/mts88/react-utils/blob/eee399d/lib/contexts/firebase/FirebaseAppContext.tsx#L8)
+[contexts/firebase/FirebaseAppContext.tsx:8](https://github.com/mts88/react-utils/blob/748ec10/lib/contexts/firebase/FirebaseAppContext.tsx#L8)
 
 ## Functions
 
@@ -45,4 +45,4 @@ Create Provider for Firebase App Context
 
 #### Defined in
 
-[contexts/firebase/FirebaseAppContext.tsx:13](https://github.com/mts88/react-utils/blob/eee399d/lib/contexts/firebase/FirebaseAppContext.tsx#L13)
+[contexts/firebase/FirebaseAppContext.tsx:13](https://github.com/mts88/react-utils/blob/748ec10/lib/contexts/firebase/FirebaseAppContext.tsx#L13)

@@ -1,4 +1,4 @@
-[react-utils](../README.md) / [Exports](../modules.md) / hooks/navigation/useCustomNavigation
+[@mts88/react-utils](../README.md) / [Exports](../modules.md) / hooks/navigation/useCustomNavigation
 
 # Module: hooks/navigation/useCustomNavigation
 
@@ -24,4 +24,4 @@ Handle go back using previous route or browser history
 
 #### Defined in
 
-[hooks/navigation/useCustomNavigation.tsx:14](https://github.com/mts88/react-utils/blob/eee399d/lib/hooks/navigation/useCustomNavigation.tsx#L14)
+[hooks/navigation/useCustomNavigation.tsx:14](https://github.com/mts88/react-utils/blob/748ec10/lib/hooks/navigation/useCustomNavigation.tsx#L14)

@@ -1,4 +1,4 @@
-[react-utils](../README.md) / [Exports](../modules.md) / functions/types
+[@mts88/react-utils](../README.md) / [Exports](../modules.md) / functions/types
 
 # Module: functions/types
 
@@ -41,7 +41,7 @@ value of object
 
 #### Defined in
 
-[functions/types.ts:51](https://github.com/mts88/react-utils/blob/eee399d/lib/functions/types.ts#L51)
+[functions/types.ts:51](https://github.com/mts88/react-utils/blob/748ec10/lib/functions/types.ts#L51)
 
 ___
 
@@ -71,7 +71,7 @@ Element is not null or is it
 
 #### Defined in
 
-[functions/types.ts:33](https://github.com/mts88/react-utils/blob/eee399d/lib/functions/types.ts#L33)
+[functions/types.ts:33](https://github.com/mts88/react-utils/blob/748ec10/lib/functions/types.ts#L33)
 
 ___
 
@@ -101,7 +101,7 @@ Element is defined
 
 #### Defined in
 
-[functions/types.ts:17](https://github.com/mts88/react-utils/blob/eee399d/lib/functions/types.ts#L17)
+[functions/types.ts:17](https://github.com/mts88/react-utils/blob/748ec10/lib/functions/types.ts#L17)
 
 ___
 
@@ -131,7 +131,7 @@ Element is null or not
 
 #### Defined in
 
-[functions/types.ts:25](https://github.com/mts88/react-utils/blob/eee399d/lib/functions/types.ts#L25)
+[functions/types.ts:25](https://github.com/mts88/react-utils/blob/748ec10/lib/functions/types.ts#L25)
 
 ___
 
@@ -155,7 +155,7 @@ Element is primite or not
 
 #### Defined in
 
-[functions/types.ts:41](https://github.com/mts88/react-utils/blob/eee399d/lib/functions/types.ts#L41)
+[functions/types.ts:41](https://github.com/mts88/react-utils/blob/748ec10/lib/functions/types.ts#L41)
 
 ___
 
@@ -185,4 +185,4 @@ Element is undefined
 
 #### Defined in
 
-[functions/types.ts:9](https://github.com/mts88/react-utils/blob/eee399d/lib/functions/types.ts#L9)
+[functions/types.ts:9](https://github.com/mts88/react-utils/blob/748ec10/lib/functions/types.ts#L9)

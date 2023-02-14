@@ -1,4 +1,4 @@
-[react-utils](../README.md) / [Exports](../modules.md) / hooks/data/useDebouncedFilter
+[@mts88/react-utils](../README.md) / [Exports](../modules.md) / hooks/data/useDebouncedFilter
 
 # Module: hooks/data/useDebouncedFilter
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[hooks/data/useDebouncedFilter.tsx:5](https://github.com/mts88/react-utils/blob/eee399d/lib/hooks/data/useDebouncedFilter.tsx#L5)
+[hooks/data/useDebouncedFilter.tsx:5](https://github.com/mts88/react-utils/blob/748ec10/lib/hooks/data/useDebouncedFilter.tsx#L5)
 
 ## Functions
 
@@ -66,4 +66,4 @@ filtered data and search handler to bind filter query changes
 
 #### Defined in
 
-[hooks/data/useDebouncedFilter.tsx:19](https://github.com/mts88/react-utils/blob/eee399d/lib/hooks/data/useDebouncedFilter.tsx#L19)
+[hooks/data/useDebouncedFilter.tsx:19](https://github.com/mts88/react-utils/blob/748ec10/lib/hooks/data/useDebouncedFilter.tsx#L19)

@@ -1,4 +1,4 @@
-[react-utils](../README.md) / [Exports](../modules.md) / types
+[@mts88/react-utils](../README.md) / [Exports](../modules.md) / types
 
 # Module: types
 

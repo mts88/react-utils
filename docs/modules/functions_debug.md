@@ -1,4 +1,4 @@
-[react-utils](../README.md) / [Exports](../modules.md) / functions/debug
+[@mts88/react-utils](../README.md) / [Exports](../modules.md) / functions/debug
 
 # Module: functions/debug
 
@@ -37,4 +37,4 @@ Param logged
 
 #### Defined in
 
-[functions/debug.ts:8](https://github.com/mts88/react-utils/blob/eee399d/lib/functions/debug.ts#L8)
+[functions/debug.ts:8](https://github.com/mts88/react-utils/blob/748ec10/lib/functions/debug.ts#L8)

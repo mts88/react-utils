@@ -1,4 +1,4 @@
-[react-utils](../README.md) / [Exports](../modules.md) / contexts/config/IAppConfig
+[@mts88/react-utils](../README.md) / [Exports](../modules.md) / contexts/config/IAppConfig
 
 # Module: contexts/config/IAppConfig
 
@@ -28,4 +28,4 @@ Interface for base configuration of App
 
 #### Defined in
 
-[contexts/config/IAppConfig.tsx:18](https://github.com/mts88/react-utils/blob/eee399d/lib/contexts/config/IAppConfig.tsx#L18)
+[contexts/config/IAppConfig.tsx:18](https://github.com/mts88/react-utils/blob/748ec10/lib/contexts/config/IAppConfig.tsx#L18)

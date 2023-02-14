@@ -1,4 +1,4 @@
-[react-utils](../README.md) / [Exports](../modules.md) / hooks/dom/useDocumentTitle
+[@mts88/react-utils](../README.md) / [Exports](../modules.md) / hooks/dom/useDocumentTitle
 
 # Module: hooks/dom/useDocumentTitle
 
@@ -48,4 +48,4 @@ Methods to update title. See IUseDocumentTitle.
 
 #### Defined in
 
-[hooks/dom/useDocumentTitle.tsx:32](https://github.com/mts88/react-utils/blob/eee399d/lib/hooks/dom/useDocumentTitle.tsx#L32)
+[hooks/dom/useDocumentTitle.tsx:32](https://github.com/mts88/react-utils/blob/748ec10/lib/hooks/dom/useDocumentTitle.tsx#L32)

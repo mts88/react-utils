@@ -1,4 +1,4 @@
-[react-utils](../README.md) / [Exports](../modules.md) / contexts/firebase/IFirebaseApp
+[@mts88/react-utils](../README.md) / [Exports](../modules.md) / contexts/firebase/IFirebaseApp
 
 # Module: contexts/firebase/IFirebaseApp
 

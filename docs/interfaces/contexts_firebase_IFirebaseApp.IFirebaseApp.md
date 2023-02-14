@@ -1,4 +1,4 @@
-[react-utils](../README.md) / [Exports](../modules.md) / [contexts/firebase/IFirebaseApp](../modules/contexts_firebase_IFirebaseApp.md) / IFirebaseApp
+[@mts88/react-utils](../README.md) / [Exports](../modules.md) / [contexts/firebase/IFirebaseApp](../modules/contexts_firebase_IFirebaseApp.md) / IFirebaseApp
 
 # Interface: IFirebaseApp
 
@@ -28,4 +28,4 @@ Interface of Context
 
 #### Defined in
 
-[contexts/firebase/IFirebaseApp.tsx:8](https://github.com/mts88/react-utils/blob/eee399d/lib/contexts/firebase/IFirebaseApp.tsx#L8)
+[contexts/firebase/IFirebaseApp.tsx:8](https://github.com/mts88/react-utils/blob/748ec10/lib/contexts/firebase/IFirebaseApp.tsx#L8)

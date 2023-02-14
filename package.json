@@ -1,10 +1,13 @@
 {
-  "name": "react-utils",
-  "private": true,
+  "name": "@mts88/react-utils",
+  "private": false,
   "version": "1.0.0",
   "type": "module",
   "license": "MIT",
-  "repository": "git@github.com:mts88/react-utils.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mts88/react-utils.git"
+  },
   "author": "MTS <fsca.motisi@gmail.com>",
   "scripts": {
     "dev": "vite",
@@ -14,7 +17,6 @@
     "lint": "eslint .",
     "lint:fix": "eslint --fix",
     "doc:generate": "typedoc --tsconfig ./tsconfig.json",
-    "prepack": "json -f package.json -I -e \"delete this.devDependencies; delete this.dependencies\"",
     "prepare": "husky install"
   },
   "dependencies": {
@@ -70,5 +72,20 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
-  }
+  },
+  "description": "[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)",
+  "bugs": {
+    "url": "https://github.com/mts88/react-utils/issues"
+  },
+  "homepage": "https://github.com/mts88/react-utils#readme",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "utils",
+    "react-typescript"
+  ]
 }

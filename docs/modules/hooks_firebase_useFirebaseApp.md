@@ -1,4 +1,4 @@
-[react-utils](../README.md) / [Exports](../modules.md) / hooks/firebase/useFirebaseApp
+[@mts88/react-utils](../README.md) / [Exports](../modules.md) / hooks/firebase/useFirebaseApp
 
 # Module: hooks/firebase/useFirebaseApp
 
@@ -24,4 +24,4 @@ FirebaseAppContext
 
 #### Defined in
 
-[hooks/firebase/useFirebaseApp.tsx:8](https://github.com/mts88/react-utils/blob/eee399d/lib/hooks/firebase/useFirebaseApp.tsx#L8)
+[hooks/firebase/useFirebaseApp.tsx:8](https://github.com/mts88/react-utils/blob/748ec10/lib/hooks/firebase/useFirebaseApp.tsx#L8)

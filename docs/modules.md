@@ -1,6 +1,6 @@
-[react-utils](README.md) / Exports
+[@mts88/react-utils](README.md) / Exports
 
-# react-utils
+# @mts88/react-utils
 
 ## Table of contents
 

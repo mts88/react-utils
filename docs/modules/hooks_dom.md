@@ -1,4 +1,4 @@
-[react-utils](../README.md) / [Exports](../modules.md) / hooks/dom
+[@mts88/react-utils](../README.md) / [Exports](../modules.md) / hooks/dom
 
 # Module: hooks/dom
 

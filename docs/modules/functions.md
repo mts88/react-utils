@@ -1,4 +1,4 @@
-[react-utils](../README.md) / [Exports](../modules.md) / functions
+[@mts88/react-utils](../README.md) / [Exports](../modules.md) / functions
 
 # Module: functions
 

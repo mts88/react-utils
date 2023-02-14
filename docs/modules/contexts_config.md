@@ -1,4 +1,4 @@
-[react-utils](../README.md) / [Exports](../modules.md) / contexts/config
+[@mts88/react-utils](../README.md) / [Exports](../modules.md) / contexts/config
 
 # Module: contexts/config
 

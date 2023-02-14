@@ -1,4 +1,4 @@
-[react-utils](../README.md) / [Exports](../modules.md) / contexts/config/useProvideAppConfig
+[@mts88/react-utils](../README.md) / [Exports](../modules.md) / contexts/config/useProvideAppConfig
 
 # Module: contexts/config/useProvideAppConfig
 
@@ -30,4 +30,4 @@ AppConfig value
 
 #### Defined in
 
-[contexts/config/useProvideAppConfig.tsx:8](https://github.com/mts88/react-utils/blob/eee399d/lib/contexts/config/useProvideAppConfig.tsx#L8)
+[contexts/config/useProvideAppConfig.tsx:8](https://github.com/mts88/react-utils/blob/748ec10/lib/contexts/config/useProvideAppConfig.tsx#L8)

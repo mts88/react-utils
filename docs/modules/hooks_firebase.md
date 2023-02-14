@@ -1,4 +1,4 @@
-[react-utils](../README.md) / [Exports](../modules.md) / hooks/firebase
+[@mts88/react-utils](../README.md) / [Exports](../modules.md) / hooks/firebase
 
 # Module: hooks/firebase
 
