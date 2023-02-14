@@ -12,7 +12,7 @@
 
 ### useProvideAppConfig
 
-▸ **useProvideAppConfig**(`configuration?`): [`IAppConfig`](../interfaces/contexts_config_IAppConfig.IAppConfig.md)
+▸ **useProvideAppConfig**(`configuration?`): [`IAppConfig`](contexts_config_IAppConfig.md#iappconfig)
 
 Hook to provide AppConfig
 
@@ -20,14 +20,14 @@ Hook to provide AppConfig
 
 | Name | Type |
 | :------ | :------ |
-| `configuration?` | `Partial`<[`IAppConfig`](../interfaces/contexts_config_IAppConfig.IAppConfig.md)\> |
+| `configuration?` | `Partial`<[`IAppConfig`](contexts_config_IAppConfig.md#iappconfig)\> |
 
 #### Returns
 
-[`IAppConfig`](../interfaces/contexts_config_IAppConfig.IAppConfig.md)
+[`IAppConfig`](contexts_config_IAppConfig.md#iappconfig)
 
 AppConfig value
 
 #### Defined in
 
-[contexts/config/useProvideAppConfig.tsx:8](https://github.com/mts88/react-utils/blob/bf85cb0/lib/contexts/config/useProvideAppConfig.tsx#L8)
+[contexts/config/useProvideAppConfig.tsx:8](https://github.com/mts88/react-utils/blob/1b73292/lib/contexts/config/useProvideAppConfig.tsx#L8)

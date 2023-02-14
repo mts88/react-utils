@@ -22,7 +22,7 @@ Create initial context
 
 #### Defined in
 
-[contexts/firebase/FirebaseAppContext.tsx:8](https://github.com/mts88/react-utils/blob/bf85cb0/lib/contexts/firebase/FirebaseAppContext.tsx#L8)
+[contexts/firebase/FirebaseAppContext.tsx:8](https://github.com/mts88/react-utils/blob/1b73292/lib/contexts/firebase/FirebaseAppContext.tsx#L8)
 
 ## Functions
 
@@ -45,4 +45,4 @@ Create Provider for Firebase App Context
 
 #### Defined in
 
-[contexts/firebase/FirebaseAppContext.tsx:13](https://github.com/mts88/react-utils/blob/bf85cb0/lib/contexts/firebase/FirebaseAppContext.tsx#L13)
+[contexts/firebase/FirebaseAppContext.tsx:13](https://github.com/mts88/react-utils/blob/1b73292/lib/contexts/firebase/FirebaseAppContext.tsx#L13)

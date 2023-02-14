@@ -19,8 +19,4 @@ import { IAppConfig } from '../../contexts/config/IAppConfig';
  *
  * ```
  */
-const useAppConfig = (): IAppConfig => {
-  return useContext(AppConfigContext);
-};
-
-export default useAppConfig;
+export const useAppConfig = (): IAppConfig => useContext(AppConfigContext);

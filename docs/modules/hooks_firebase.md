@@ -8,6 +8,7 @@
 
 - [useFirebaseAnalytics](hooks_firebase.md#usefirebaseanalytics)
 - [useFirebaseApp](hooks_firebase.md#usefirebaseapp)
+- [useFirebaseRemoteConfig](hooks_firebase.md#usefirebaseremoteconfig)
 
 ## References
 
@@ -20,3 +21,9 @@ ___
 ### useFirebaseApp
 
 Renames and re-exports [default](hooks_firebase_useFirebaseApp.md#default)
+
+___
+
+### useFirebaseRemoteConfig
+
+Re-exports [useFirebaseRemoteConfig](hooks_firebase_useFirebaseRemoteConfig.md#usefirebaseremoteconfig)

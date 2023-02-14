@@ -15,6 +15,6 @@ export interface IFirebaseAppConfig {
 /**
  * Interface for base configuration of App
  */
-export interface IAppConfig {
+export type IAppConfig = {
   firebase?: IFirebaseAppConfig;
-}
+};

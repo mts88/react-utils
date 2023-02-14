@@ -6,13 +6,13 @@
 
 ### Functions
 
-- [default](hooks_app_useAppConfig.md#default)
+- [useAppConfig](hooks_app_useAppConfig.md#useappconfig)
 
 ## Functions
 
-### default
+### useAppConfig
 
-▸ **default**(): [`IAppConfig`](../interfaces/contexts_config_IAppConfig.IAppConfig.md)
+▸ **useAppConfig**(): [`IAppConfig`](contexts_config_IAppConfig.md#iappconfig)
 
 Hook to use AppConfigContext
 
@@ -32,10 +32,10 @@ Hook to use AppConfigContext
 
 #### Returns
 
-[`IAppConfig`](../interfaces/contexts_config_IAppConfig.IAppConfig.md)
+[`IAppConfig`](contexts_config_IAppConfig.md#iappconfig)
 
 AppConfigContext
 
 #### Defined in
 
-[hooks/app/useAppConfig.tsx:22](https://github.com/mts88/react-utils/blob/bf85cb0/lib/hooks/app/useAppConfig.tsx#L22)
+[hooks/app/useAppConfig.tsx:22](https://github.com/mts88/react-utils/blob/1b73292/lib/hooks/app/useAppConfig.tsx#L22)

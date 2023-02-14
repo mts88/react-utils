@@ -16,13 +16,13 @@
 
 ### AppConfigContext
 
-• `Const` **AppConfigContext**: `Context`<[`IAppConfig`](../interfaces/contexts_config_IAppConfig.IAppConfig.md)\>
+• `Const` **AppConfigContext**: `Context`<[`IAppConfig`](contexts_config_IAppConfig.md#iappconfig)\>
 
 Create initial context
 
 #### Defined in
 
-[contexts/config/AppConfigContext.tsx:8](https://github.com/mts88/react-utils/blob/bf85cb0/lib/contexts/config/AppConfigContext.tsx#L8)
+[contexts/config/AppConfigContext.tsx:8](https://github.com/mts88/react-utils/blob/1b73292/lib/contexts/config/AppConfigContext.tsx#L8)
 
 ## Functions
 
@@ -32,13 +32,62 @@ Create initial context
 
 Create Provider for App Config Context
 
+**`Example`**
+
+Without custom configuration
+```
+
+ const MyComponent = () => {
+
+      return (
+         <AppConfigProvider>
+           <MyOtherAppPart />
+         </AppConfigProvider>
+      )
+ }
+```
+
+**`Example`**
+
+With custom configuration
+```
+ interface MyAppConfig extends IAppConfig;
+
+ const MyComponent = () => {
+
+     const config: Partial<MyAppConfig> = {
+         appName: 'My App Name'
+      }
+
+      return (
+         <AppConfigProvider configuration={config}>
+           <MyOtherAppPart />
+         </AppConfigProvider>
+      )
+ }
+```
+
+.... in other component
+
+```
+ const MyOtherComponent = () => {
+
+     const config = useAppConfig()
+
+      return (
+         <>{config.appName}</>
+      )
+ }
+
+```
+
 #### Parameters
 
 | Name | Type |
 | :------ | :------ |
 | `«destructured»` | `Object` |
 | › `children` | `ReactNode` |
-| › `configuration?` | `Partial`<[`IAppConfig`](../interfaces/contexts_config_IAppConfig.IAppConfig.md)\> |
+| › `configuration?` | `Partial`<[`IAppConfig`](contexts_config_IAppConfig.md#iappconfig)\> |
 
 #### Returns
 
@@ -46,4 +95,4 @@ Create Provider for App Config Context
 
 #### Defined in
 
-[contexts/config/AppConfigContext.tsx:13](https://github.com/mts88/react-utils/blob/bf85cb0/lib/contexts/config/AppConfigContext.tsx#L13)
+[contexts/config/AppConfigContext.tsx:58](https://github.com/mts88/react-utils/blob/1b73292/lib/contexts/config/AppConfigContext.tsx#L58)

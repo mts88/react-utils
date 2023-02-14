@@ -5,10 +5,55 @@ import { useProvideAppConfig } from './useProvideAppConfig';
 /**
  * Create initial context
  */
-export const AppConfigContext = createContext<IAppConfig>({});
+export const AppConfigContext = createContext<IAppConfig>({} as IAppConfig);
 
 /**
  * Create Provider for App Config Context
+ *
+ * @example Without custom configuration
+ * ```
+ *
+ *  const MyComponent = () => {
+ *
+ *       return (
+ *          <AppConfigProvider>
+ *            <MyOtherAppPart />
+ *          </AppConfigProvider>
+ *       )
+ *  }
+ * ```
+ *
+ * @example With custom configuration
+ * ```
+ *  interface MyAppConfig extends IAppConfig;
+ *
+ *  const MyComponent = () => {
+ *
+ *      const config: Partial<MyAppConfig> = {
+ *          appName: 'My App Name'
+ *       }
+ *
+ *       return (
+ *          <AppConfigProvider configuration={config}>
+ *            <MyOtherAppPart />
+ *          </AppConfigProvider>
+ *       )
+ *  }
+ * ```
+ *
+ * .... in other component
+ *
+ * ```
+ *  const MyOtherComponent = () => {
+ *
+ *      const config = useAppConfig()
+ *
+ *       return (
+ *          <>{config.appName}</>
+ *       )
+ *  }
+ *
+ * ```
  */
 export function AppConfigProvider({
   children,

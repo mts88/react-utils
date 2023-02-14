@@ -6,10 +6,17 @@
 
 ### References
 
+- [useDebounce](hooks_effects.md#usedebounce)
 - [useOnMountEffect](hooks_effects.md#useonmounteffect)
 
 ## References
 
+### useDebounce
+
+Re-exports [useDebounce](hooks_effects_useDebounce.md#usedebounce)
+
+___
+
 ### useOnMountEffect
 
-Renames and re-exports [default](hooks_effects_useOnMountEffect.md#default)
+Re-exports [useOnMountEffect](hooks_effects_useOnMountEffect.md#useonmounteffect)

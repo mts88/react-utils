@@ -29,7 +29,7 @@ import { useEffect, useRef } from 'react';
  *
  * ```
  */
-const useOnMountEffect = <T,>(
+export const useOnMountEffect = <T,>(
   onMountFunc: Function,
   onUnmountFunc: Function = (): void => {},
   deps: T[] = []
@@ -47,5 +47,3 @@ const useOnMountEffect = <T,>(
     };
   }, deps);
 };
-
-export default useOnMountEffect;

@@ -12,4 +12,4 @@
 
 ### useAppConfig
 
-Renames and re-exports [default](hooks_app_useAppConfig.md#default)
+Re-exports [useAppConfig](hooks_app_useAppConfig.md#useappconfig)

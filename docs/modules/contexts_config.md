@@ -27,7 +27,7 @@ ___
 
 ### IAppConfig
 
-Re-exports [IAppConfig](../interfaces/contexts_config_IAppConfig.IAppConfig.md)
+Re-exports [IAppConfig](contexts_config_IAppConfig.md#iappconfig)
 
 ___
 

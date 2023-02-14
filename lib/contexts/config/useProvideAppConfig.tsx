@@ -5,7 +5,7 @@ import { IAppConfig } from './IAppConfig';
  *
  * @returns AppConfig value
  */
-export function useProvideAppConfig(configuration?: Partial<IAppConfig>): IAppConfig {
+export const useProvideAppConfig = (configuration?: Partial<IAppConfig>): IAppConfig => {
   return {
     firebase: {
       apiKey: process.env.REACT_APP_FIREBASE_API_KEY || '',
@@ -19,4 +19,4 @@ export function useProvideAppConfig(configuration?: Partial<IAppConfig>): IAppCo
     },
     ...configuration
   };
-}
+};

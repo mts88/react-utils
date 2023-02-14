@@ -1,9 +1,7 @@
 /**
- * @module hooks/effects
  *
  * Contains hooks based on effects
  */
 
-declare module 'hooks/effects';
-
-export { default as useOnMountEffect } from './useOnMountEffect';
+export { useDebounce } from './useDebounce';
+export { useOnMountEffect } from './useOnMountEffect';

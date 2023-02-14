@@ -20,10 +20,14 @@
     "noEmit": true,
     "jsx": "react-jsx",
     "baseUrl": "./lib",
-    "strictNullChecks": true
+    "strictNullChecks": true,
+    "declaration": true,
   },
   "include": [
     "lib"
+  ],
+  "exclude": [
+    "node_modules"
   ],
   "references": [
     {

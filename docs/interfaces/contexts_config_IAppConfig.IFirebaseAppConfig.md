@@ -27,7 +27,7 @@ Interface for firebase configuration
 
 #### Defined in
 
-[contexts/config/IAppConfig.tsx:5](https://github.com/mts88/react-utils/blob/bf85cb0/lib/contexts/config/IAppConfig.tsx#L5)
+[contexts/config/IAppConfig.tsx:5](https://github.com/mts88/react-utils/blob/1b73292/lib/contexts/config/IAppConfig.tsx#L5)
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 #### Defined in
 
-[contexts/config/IAppConfig.tsx:11](https://github.com/mts88/react-utils/blob/bf85cb0/lib/contexts/config/IAppConfig.tsx#L11)
+[contexts/config/IAppConfig.tsx:11](https://github.com/mts88/react-utils/blob/1b73292/lib/contexts/config/IAppConfig.tsx#L11)
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 #### Defined in
 
-[contexts/config/IAppConfig.tsx:6](https://github.com/mts88/react-utils/blob/bf85cb0/lib/contexts/config/IAppConfig.tsx#L6)
+[contexts/config/IAppConfig.tsx:6](https://github.com/mts88/react-utils/blob/1b73292/lib/contexts/config/IAppConfig.tsx#L6)
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 #### Defined in
 
-[contexts/config/IAppConfig.tsx:7](https://github.com/mts88/react-utils/blob/bf85cb0/lib/contexts/config/IAppConfig.tsx#L7)
+[contexts/config/IAppConfig.tsx:7](https://github.com/mts88/react-utils/blob/1b73292/lib/contexts/config/IAppConfig.tsx#L7)
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 #### Defined in
 
-[contexts/config/IAppConfig.tsx:12](https://github.com/mts88/react-utils/blob/bf85cb0/lib/contexts/config/IAppConfig.tsx#L12)
+[contexts/config/IAppConfig.tsx:12](https://github.com/mts88/react-utils/blob/1b73292/lib/contexts/config/IAppConfig.tsx#L12)
 
 ___
 
@@ -77,7 +77,7 @@ ___
 
 #### Defined in
 
-[contexts/config/IAppConfig.tsx:10](https://github.com/mts88/react-utils/blob/bf85cb0/lib/contexts/config/IAppConfig.tsx#L10)
+[contexts/config/IAppConfig.tsx:10](https://github.com/mts88/react-utils/blob/1b73292/lib/contexts/config/IAppConfig.tsx#L10)
 
 ___
 
@@ -87,7 +87,7 @@ ___
 
 #### Defined in
 
-[contexts/config/IAppConfig.tsx:8](https://github.com/mts88/react-utils/blob/bf85cb0/lib/contexts/config/IAppConfig.tsx#L8)
+[contexts/config/IAppConfig.tsx:8](https://github.com/mts88/react-utils/blob/1b73292/lib/contexts/config/IAppConfig.tsx#L8)
 
 ___
 
@@ -97,4 +97,4 @@ ___
 
 #### Defined in
 
-[contexts/config/IAppConfig.tsx:9](https://github.com/mts88/react-utils/blob/bf85cb0/lib/contexts/config/IAppConfig.tsx#L9)
+[contexts/config/IAppConfig.tsx:9](https://github.com/mts88/react-utils/blob/1b73292/lib/contexts/config/IAppConfig.tsx#L9)
