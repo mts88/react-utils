@@ -48,4 +48,4 @@ Methods to update title. See IUseDocumentTitle.
 
 #### Defined in
 
-[hooks/dom/useDocumentTitle.tsx:32](https://github.com/mts88/react-utils/blob/81dab9f/lib/hooks/dom/useDocumentTitle.tsx#L32)
+[hooks/dom/useDocumentTitle.tsx:32](https://github.com/mts88/react-utils/blob/eee399d/lib/hooks/dom/useDocumentTitle.tsx#L32)

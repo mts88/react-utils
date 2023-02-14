@@ -12,6 +12,7 @@
 - [EntityId](index.md#entityid)
 - [FirebaseAppContext](index.md#firebaseappcontext)
 - [FirebaseAppProvider](index.md#firebaseappprovider)
+- [FormValidationRules](index.md#formvalidationrules)
 - [IAppConfig](index.md#iappconfig)
 - [IFirebaseApp](index.md#ifirebaseapp)
 - [IFirebaseAppConfig](index.md#ifirebaseappconfig)
@@ -74,6 +75,12 @@ ___
 ### FirebaseAppProvider
 
 Re-exports [FirebaseAppProvider](contexts_firebase_FirebaseAppContext.md#firebaseappprovider)
+
+___
+
+### FormValidationRules
+
+Re-exports [FormValidationRules](types_form.md#formvalidationrules)
 
 ___
 

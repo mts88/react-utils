@@ -27,7 +27,7 @@
 
 #### Defined in
 
-[hooks/effects/useDebounce.tsx:4](https://github.com/mts88/react-utils/blob/81dab9f/lib/hooks/effects/useDebounce.tsx#L4)
+[hooks/effects/useDebounce.tsx:4](https://github.com/mts88/react-utils/blob/eee399d/lib/hooks/effects/useDebounce.tsx#L4)
 
 ## Functions
 
@@ -51,4 +51,4 @@ Search param and memoized function to handle search
 
 #### Defined in
 
-[hooks/effects/useDebounce.tsx:15](https://github.com/mts88/react-utils/blob/81dab9f/lib/hooks/effects/useDebounce.tsx#L15)
+[hooks/effects/useDebounce.tsx:15](https://github.com/mts88/react-utils/blob/eee399d/lib/hooks/effects/useDebounce.tsx#L15)

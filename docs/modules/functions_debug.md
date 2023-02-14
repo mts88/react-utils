@@ -37,4 +37,4 @@ Param logged
 
 #### Defined in
 
-[functions/debug.ts:8](https://github.com/mts88/react-utils/blob/81dab9f/lib/functions/debug.ts#L8)
+[functions/debug.ts:8](https://github.com/mts88/react-utils/blob/eee399d/lib/functions/debug.ts#L8)

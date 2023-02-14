@@ -24,4 +24,4 @@ Type for Validation rules in React hook form
 
 #### Defined in
 
-[types/form.ts:6](https://github.com/mts88/react-utils/blob/81dab9f/lib/types/form.ts#L6)
+[types/form.ts:6](https://github.com/mts88/react-utils/blob/eee399d/lib/types/form.ts#L6)

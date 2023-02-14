@@ -28,4 +28,4 @@ Interface of Context
 
 #### Defined in
 
-[contexts/firebase/IFirebaseApp.tsx:8](https://github.com/mts88/react-utils/blob/81dab9f/lib/contexts/firebase/IFirebaseApp.tsx#L8)
+[contexts/firebase/IFirebaseApp.tsx:8](https://github.com/mts88/react-utils/blob/eee399d/lib/contexts/firebase/IFirebaseApp.tsx#L8)

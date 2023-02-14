@@ -8,6 +8,7 @@
 
 - [ActionProps](types.md#actionprops)
 - [EntityId](types.md#entityid)
+- [FormValidationRules](types.md#formvalidationrules)
 - [Maybe](types.md#maybe)
 - [Nullable](types.md#nullable)
 - [PickActionProps](types.md#pickactionprops)
@@ -25,6 +26,12 @@ ___
 ### EntityId
 
 Re-exports [EntityId](types_bases.md#entityid)
+
+___
+
+### FormValidationRules
+
+Re-exports [FormValidationRules](types_form.md#formvalidationrules)
 
 ___
 

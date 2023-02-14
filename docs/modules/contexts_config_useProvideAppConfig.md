@@ -30,4 +30,4 @@ AppConfig value
 
 #### Defined in
 
-[contexts/config/useProvideAppConfig.tsx:8](https://github.com/mts88/react-utils/blob/81dab9f/lib/contexts/config/useProvideAppConfig.tsx#L8)
+[contexts/config/useProvideAppConfig.tsx:8](https://github.com/mts88/react-utils/blob/eee399d/lib/contexts/config/useProvideAppConfig.tsx#L8)
