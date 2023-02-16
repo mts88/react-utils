@@ -61,9 +61,10 @@
   ],
   "main": "./dist/react-utils.umd.js",
   "module": "./dist/react-utils.es.js",
-  "types": "./dist/react-utils.d.ts",
+  "types": "./dist/index.d.ts",
   "exports": {
     ".": {
+      "types": "./dist/index.d.ts",
       "import": "./dist/react-utils.es.js",
       "require": "./dist/react-utils.umd.js"
     }

@@ -36,4 +36,4 @@ Is empty or not
 
 #### Defined in
 
-[functions/arrays.ts:7](https://github.com/mts88/react-utils/blob/748ec10/lib/functions/arrays.ts#L7)
+[functions/arrays.ts:7](https://github.com/mts88/react-utils/blob/1802342/lib/functions/arrays.ts#L7)

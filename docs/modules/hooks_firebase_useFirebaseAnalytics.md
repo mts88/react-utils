@@ -25,4 +25,4 @@ IUseFirebaseAnalytics with all methods
 
 #### Defined in
 
-[hooks/firebase/useFirebaseAnalytics.tsx:38](https://github.com/mts88/react-utils/blob/748ec10/lib/hooks/firebase/useFirebaseAnalytics.tsx#L38)
+[hooks/firebase/useFirebaseAnalytics.tsx:38](https://github.com/mts88/react-utils/blob/1802342/lib/hooks/firebase/useFirebaseAnalytics.tsx#L38)

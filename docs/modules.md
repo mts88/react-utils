@@ -35,7 +35,6 @@
 - [hooks/navigation](modules/hooks_navigation.md)
 - [hooks/navigation/useCustomNavigation](modules/hooks_navigation_useCustomNavigation.md)
 - [index](modules/index.md)
-- [react-utils](modules/react_utils.md)
 - [types](modules/types.md)
 - [types/bases](modules/types_bases.md)
 - [types/form](modules/types_form.md)

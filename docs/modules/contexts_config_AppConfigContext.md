@@ -22,7 +22,7 @@ Create initial context
 
 #### Defined in
 
-[contexts/config/AppConfigContext.tsx:8](https://github.com/mts88/react-utils/blob/748ec10/lib/contexts/config/AppConfigContext.tsx#L8)
+[contexts/config/AppConfigContext.tsx:8](https://github.com/mts88/react-utils/blob/1802342/lib/contexts/config/AppConfigContext.tsx#L8)
 
 ## Functions
 
@@ -95,4 +95,4 @@ With custom configuration
 
 #### Defined in
 
-[contexts/config/AppConfigContext.tsx:58](https://github.com/mts88/react-utils/blob/748ec10/lib/contexts/config/AppConfigContext.tsx#L58)
+[contexts/config/AppConfigContext.tsx:58](https://github.com/mts88/react-utils/blob/1802342/lib/contexts/config/AppConfigContext.tsx#L58)

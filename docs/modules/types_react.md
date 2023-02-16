@@ -33,7 +33,7 @@ Define multiple common action
 
 #### Defined in
 
-[types/react.ts:4](https://github.com/mts88/react-utils/blob/748ec10/lib/types/react.ts#L4)
+[types/react.ts:4](https://github.com/mts88/react-utils/blob/1802342/lib/types/react.ts#L4)
 
 ___
 
@@ -51,4 +51,4 @@ Pick easly from [ActionProps](types_react.md#actionprops)
 
 #### Defined in
 
-[types/react.ts:19](https://github.com/mts88/react-utils/blob/748ec10/lib/types/react.ts#L19)
+[types/react.ts:19](https://github.com/mts88/react-utils/blob/1802342/lib/types/react.ts#L19)

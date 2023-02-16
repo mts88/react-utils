@@ -57,4 +57,4 @@ Execute onMountFunc when component is mounted. Avoid double execution of React 1
 
 #### Defined in
 
-[hooks/effects/useOnMountEffect.tsx:32](https://github.com/mts88/react-utils/blob/748ec10/lib/hooks/effects/useOnMountEffect.tsx#L32)
+[hooks/effects/useOnMountEffect.tsx:32](https://github.com/mts88/react-utils/blob/1802342/lib/hooks/effects/useOnMountEffect.tsx#L32)
