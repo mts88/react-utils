@@ -29,7 +29,7 @@ Declare entity with id field.
 
 #### Defined in
 
-[types/bases.ts:19](https://github.com/mts88/react-utils/blob/1802342/lib/types/bases.ts#L19)
+[types/bases.ts:19](https://github.com/mts88/react-utils/blob/efeb83f/lib/types/bases.ts#L19)
 
 ___
 
@@ -47,7 +47,7 @@ Helper to define type or undefined
 
 #### Defined in
 
-[types/bases.ts:4](https://github.com/mts88/react-utils/blob/1802342/lib/types/bases.ts#L4)
+[types/bases.ts:4](https://github.com/mts88/react-utils/blob/efeb83f/lib/types/bases.ts#L4)
 
 ___
 
@@ -65,7 +65,7 @@ Helper to define type or null
 
 #### Defined in
 
-[types/bases.ts:9](https://github.com/mts88/react-utils/blob/1802342/lib/types/bases.ts#L9)
+[types/bases.ts:9](https://github.com/mts88/react-utils/blob/efeb83f/lib/types/bases.ts#L9)
 
 ___
 
@@ -77,7 +77,7 @@ Define type primitive
 
 #### Defined in
 
-[types/bases.ts:14](https://github.com/mts88/react-utils/blob/1802342/lib/types/bases.ts#L14)
+[types/bases.ts:14](https://github.com/mts88/react-utils/blob/efeb83f/lib/types/bases.ts#L14)
 
 ___
 
@@ -101,4 +101,4 @@ Interface with simple value structure
 
 #### Defined in
 
-[types/bases.ts:24](https://github.com/mts88/react-utils/blob/1802342/lib/types/bases.ts#L24)
+[types/bases.ts:24](https://github.com/mts88/react-utils/blob/efeb83f/lib/types/bases.ts#L24)

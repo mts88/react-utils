@@ -24,4 +24,4 @@ FirebaseAppContext
 
 #### Defined in
 
-[hooks/firebase/useFirebaseApp.tsx:8](https://github.com/mts88/react-utils/blob/1802342/lib/hooks/firebase/useFirebaseApp.tsx#L8)
+[hooks/firebase/useFirebaseApp.tsx:8](https://github.com/mts88/react-utils/blob/efeb83f/lib/hooks/firebase/useFirebaseApp.tsx#L8)

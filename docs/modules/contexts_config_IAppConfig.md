@@ -28,4 +28,4 @@ Interface for base configuration of App
 
 #### Defined in
 
-[contexts/config/IAppConfig.tsx:18](https://github.com/mts88/react-utils/blob/1802342/lib/contexts/config/IAppConfig.tsx#L18)
+[contexts/config/IAppConfig.tsx:18](https://github.com/mts88/react-utils/blob/efeb83f/lib/contexts/config/IAppConfig.tsx#L18)

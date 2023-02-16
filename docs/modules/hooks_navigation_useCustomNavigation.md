@@ -24,4 +24,4 @@ Handle go back using previous route or browser history
 
 #### Defined in
 
-[hooks/navigation/useCustomNavigation.tsx:14](https://github.com/mts88/react-utils/blob/1802342/lib/hooks/navigation/useCustomNavigation.tsx#L14)
+[hooks/navigation/useCustomNavigation.tsx:14](https://github.com/mts88/react-utils/blob/efeb83f/lib/hooks/navigation/useCustomNavigation.tsx#L14)

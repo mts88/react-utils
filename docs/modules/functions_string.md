@@ -31,4 +31,4 @@ boolean
 
 #### Defined in
 
-[functions/string.ts:7](https://github.com/mts88/react-utils/blob/1802342/lib/functions/string.ts#L7)
+[functions/string.ts:7](https://github.com/mts88/react-utils/blob/efeb83f/lib/functions/string.ts#L7)
